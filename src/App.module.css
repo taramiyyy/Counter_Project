@@ -1,0 +1,14 @@
+.App{
+    text-align: center;
+}
+
+.btn{
+    display: block;
+    margin: 10px auto;
+    padding: 10px 15px;
+    border-radius: 50%;
+    border: 1px solid #f0f1f1;
+    background: #f0f1b1;
+    color: black;
+}
+
